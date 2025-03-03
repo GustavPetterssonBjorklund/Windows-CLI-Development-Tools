@@ -1,6 +1,6 @@
 # Windows CLI Development Tools
 
-A curated collection of command-line tools designed to streamline development on Windows. After years of development on Windows, I've put together these tools that have consistently improved my workflow. I hope they enhance your development experience too!
+A work in progress curated collection of command-line tools designed to streamline development on Windows. After years of development on Windows, I've put together these tools that have consistently improved my workflow. I hope they enhance your development experience too!
 
 ---
 
