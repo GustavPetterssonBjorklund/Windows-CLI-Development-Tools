@@ -1,0 +1,5 @@
+# FILE: .gitignore
+# Author: Gustav Pettersson Björklund
+# Email: gustav.pettersson2@outlook.com
+# DATE: 2025-03-03
+bin/touch.conf
